@@ -1,4 +1,4 @@
-# .-lang
+# Dot-Lang
 A pseudo-morse code compiler implemented in Javascript.
 
 # Dictonary/Syntax Table
